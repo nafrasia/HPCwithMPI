@@ -8,6 +8,19 @@ Problems such as
   - Matrix-Matrix Multiplication
   - 1D and 2D Poisson Problem using Jacobi method, and Conjugate Gradient
 
+## Setup
+All of the programs are written in C/C++ and need to be compiled before running. This requires C, C++, and MPI compilers. You can install these compilers using the following commands
+
+### Linux
+#### C/C++
+`sudo apt install gcc g++`
+
+#### OpenMPI
+`sudo apt install openmpi-bin libopenmpi-dev` 
+
+#### MPICH
+`sudo apt install mpich libmpich-dev`
+
 ## Acknowledgement
 This project was completed as part of the SC9505R by Dr. Colin Denniston at University of Western Ontario. I would like to thank Dr. Denniston for their guidance and support.
 
