@@ -40,7 +40,7 @@ Install LAPACK and BLAS using:
 
 `sudo apt install liblapack-dev`
 
-These packages need to be explicitly linked during complition using `-lblas` and `-llapack`
+These packages need to be explicitly linked during compilation using `-lblas` and `-llapack`
 
 ## Acknowledgement
 This project was completed as part of the SC9505R by Dr. Colin Denniston at University of Western Ontario. I would like to thank Dr. Denniston for their guidance and support.
